@@ -31,6 +31,6 @@ int main() {
         char* color = c.GetModel();
         int year = c.GetYear();
         double price = c.GetPrice();
-    cout << "Model: " << model << "\Color: " << color << "\nYear: " << year << "\nPrice: " << price << endl;
+    cout << "Model: " << model << "\nColor: " << color << "\nYear: " << year << "\nPrice: " << price << endl;
 }
 
